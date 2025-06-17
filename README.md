@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hamzakakhtar
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in App Development and Web Development
 - 🌱 I’m currently learning Flutter, Dart
 - 💞️ I’m looking to collaborate on beginner friendly flutter projects to
 - learn and grow with the community!
