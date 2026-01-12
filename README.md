@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter, Dart
 - 💞️ I’m looking to collaborate on beginner friendly flutter projects to
 - learn and grow with the community!
-- 📫 How to reach me via email at hamzakakhtar.dev@gmail.com or contact me on [linkedin]
+- 📫 How to reach me via email at hka.codes@gmail.com or contact me on [linkedin]
 -  /hamzakakhtar 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a beginner who enjoys learning by breaking and fixing code!
